@@ -1,5 +1,5 @@
-// g++ 3dExample.cpp -lglut -lGL -lGLU -lSDL -o ddd
-// g++ 3dExample.cpp -lglut -lGL -o ddd also works
+// g++ engine.cpp -lglut -lGL -lGLU -lSDL -o ddd
+// g++ engine.cpp -lglut -lGL -o ddd also works
 // dependencies: mesa-common-dev and freeglut3-dev
 
 #include "lib3d.cpp"

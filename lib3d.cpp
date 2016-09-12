@@ -1,4 +1,4 @@
-#include "shaped3d.cpp"
+#include "shapes3d.cpp"
 
 void MyKeyboardFunc(unsigned char key, int x, int y);
 //void MySpecialFunc(int key, int x, int y);
